@@ -73,3 +73,7 @@ Added Migration Rating and Updated Database
 Updateed the Movie class...Selected the Create New link to add a new movie.
 ...Fill out the form with some invalid values. 
 As soon as jQuery client side validation detects the error, it displays an error message.
+2024-02-06
+1507
+## Part 10, examine the Details and Delete methods of an ASP.NET Core app
+Examined the Details method in Movie controller
